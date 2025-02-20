@@ -1,0 +1,4 @@
+cd $HOME/LIGHT_MOD_SKIN
+chmod +x menu
+chmod +x repak
+./menu
